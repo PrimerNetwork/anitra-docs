@@ -13,5 +13,5 @@ create-missing = false
 [output.html]
 default-theme = "navy"
 git-repository-url = "https://github.com/PrimerNetwork/anitra-docs"
-site-url = "https://anitra.primernetwork.com/docs"
+site-url = "https://anitra.primernetwork.com"
 
