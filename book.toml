@@ -1,0 +1,17 @@
+[book]
+authors = ["Sham"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Anitra Documentation"
+description = "The guide for using Anitra."
+
+[build]
+build-dir = "book"
+create-missing = false
+
+[output.html]
+default-theme = "navy"
+git-repository-url = "https://github.com/PrimerNetwork/anitra-docs"
+site-url = "https://anitra.primernetwork.com/docs"
+
