@@ -4,6 +4,14 @@ The Auto-Role feature is meant to assign a person a role when they join the serv
 
 You *are* able to specify what role(s) should be assigned to bot accounts upon join, and to people upon join.
 
+> **Note**
+>
+> Anitra requires the `Manage Roles` permission for this to work.
+>
+> Anitra also needs to be above the role(s) you would like to add to the Auto Role feature.
+>
+> ![Role hierarchy fix](../assets/role_hierarchy_fix.gif)
+
 ## Examples
 
 ### User Accounts
