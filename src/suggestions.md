@@ -36,5 +36,5 @@ This can be achieved by running `/suggestions <approve|deny> suggestion:ID reaso
 
 Some examples could be:
 - `/suggestions approve suggestion:42 reason:This is indeed a great suggestion! We shall implement it right away.`
-- `/suggestions deny suggestion deny suggestion:70 reason:This is a good suggestion, however due to a Discord limitation, we are unable to achieve this.`
+- `/suggestions deny suggestion:70 reason:This is a good suggestion, however due to a Discord limitation, we are unable to achieve this.`
 
