@@ -12,3 +12,6 @@
 - [Self-Claimable Button Roles](./button_roles.md)
 - [Suggestions](./suggestions.md)
 
+# Policies
+
+- [Terms of Service and Privacy Policy](./terms.md)
