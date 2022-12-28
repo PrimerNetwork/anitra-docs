@@ -2,7 +2,7 @@
 
 Last Update and Effective: December 28, 2022
 
-These Terms of Serivce and Privacy Policy applies to the Discord Bot: Anitra#9270 (ID: 1043892494280175616)
+This Terms of Serivce and Privacy Policy applies to the Discord Bot: Anitra#9270 (ID: 1043892494280175616)
 
 ## Terms of Service
 
