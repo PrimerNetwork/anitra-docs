@@ -18,7 +18,7 @@ The intended usage of this data is for the core functions of the bot including b
 Anitra may not be used by any person or persons under the specified minimal age defined in Discord's [Terms of Service](https://discord.com/terms). Usege of this bot while under this specified age will result in a violation of these terms and will result in blacklisting from all PrimerNetwork Bots as well as removal and blacklists from any and all servers owned by the person or persons.
 
 ### Affiliation
-Anitra is not affiliated with, supported or made by Discord In.c
+Anitra is not affiliated with, supported or made by Discord Inc.
 Any direct connection with Discord or any of its Trademark objects is purely coincidental. PrimerNetwork does not claim to have the copyright ownership of any and all Discord Assets, trademarks or intellectual property.
 
 ### Liability
