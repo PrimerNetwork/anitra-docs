@@ -7,7 +7,7 @@ This Terms of Serivce and Privacy Policy applies to the Discord Bot: Anitra#9270
 ## Terms of Service
 
 ### Usage Agreement
-By inviting the bot and using it's features (including but not limited to: commands, suggestion system, button roles), you agree to the below Terms of Service and Privacy Policy (the "Policy") of the bot.
+By inviting the bot and using its features (including but not limited to: commands, suggestion system, button roles), you agree to the below Terms of Service and Privacy Policy (the "Policy") of the bot.
 
 You acknowledge that you have the right to freely use the bot on any Discord Server you share with the bot, you have the right to invite it to a server that you have "Manage Server" rights for and that this right may be revoked at any point in time with or without reason to be determined by PrimerNetwork. 
 
