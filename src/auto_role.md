@@ -14,13 +14,13 @@ You *are* able to specify what role(s) should be assigned to bot accounts upon j
 
 ## Examples
 
-### User Accounts
+### Bot Accounts
 
 Let's say that we want bot accounts to recieve the `test-bot` role, we would have run `/autorole add bot role: @test-bot`, and this would happen whenever a bot joins:
 
 ![Role assigned to bot](../assets/bot_join.png)
 
-### Bot Accounts
+### User Accounts
 
 Now let's say we wanted user accounts (people) to recieve the `member` role, we would _then_ run `/autorole add user role: @Member`, which would then lead to this happen when ever a person joins:
 
